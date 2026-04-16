@@ -195,7 +195,7 @@ function Game(date, scores, goals) {
 /* AUXILIARY FUNCTIONS */
 
 function getRandomInt(max) { // returns a random number from 0 to max-1
-                                                                                               ░█▄▄▀ ░█▄▄▄█ ░█──▀█ ░█─░█", player, 0xd757b3, "normal", 0);
+                                                                                   
     room.sendAnnouncement("                       ¡𝗗𝗼𝗻𝗮 𝘆 𝗼𝗯𝘁𝗲𝗻𝗲 𝘃𝗶𝗽 𝘆 𝗺𝗮𝘀 𝗯𝗲𝗻𝗲𝗳𝗶𝗰𝗶𝗼𝘀!", player, 0xd733ff, "bold", 0);
     room.sendAnnouncement("                                                                                                          ➡➡  🔗 ʟɪɴᴋ: https://discord.gg/yFBxCUNEps", player, 0xf1ff33, "bold");
     isTimeAddedShownsiete = true;
